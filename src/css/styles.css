@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(224, 221, 221);
+}
+
+
+.estrofa1 {
+    background-color: rgb(252, 252, 252);
+    color: yellow;
+    
+}
+
+.estrofa2 {
+    background-color: rgb(247, 247, 247);
+    color: blue;
+}
+
+.estrofa3 {
+    background-color: rgb(240, 237, 234);
+    color: red;
+}
+
+.parrafo1 {
+    color: yellow;
+    font-size: 32px;
+}
+
+.parrafo2 {
+    color: blue;
+    font-size: 28px;
+}
+
+.parrafo3 {
+    color: red;
+    font-size: 20px;
+}
